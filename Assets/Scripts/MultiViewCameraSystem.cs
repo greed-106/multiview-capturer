@@ -21,7 +21,7 @@ public class MultiViewCameraSystem : MonoBehaviour
 
     [Header("保存设置")]
     public string savePath = "D:/code/datasets/pngs"; // 指定保存路径
-    public string filePrefix = "view"; // 文件名前缀
+    public string filePrefix = "longdress"; // 文件名前缀
 
     private Camera tempCamera;
     private RenderTexture renderTexture;
